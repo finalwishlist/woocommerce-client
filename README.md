@@ -7,7 +7,7 @@ If you want more information about this, check the [Documentation](https://final
 
 ```
 $ composer require finalwishlist/woocommerce-client
-``
+```
 
 Make sure do you have file of this plugin in right plugin folder.
 Then you can install plugin from your wp-admin area like others woocommerce plugins.
