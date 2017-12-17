@@ -18,7 +18,7 @@ Note: Woocommerce and [Yith wishlist Plugin](https://wordpress.org/plugins/yith-
 
 ## Configuration
 
-In finalwishlist settings you can set if you want  (Sandbox enviroment](http://http://sandbox.finalwishlist.com/) required  or  (real one](http://http://sandbox.finalwishlist.com/).
+In finalwishlist settings you can set if you want  [Sandbox enviroment](http://sandbox.finalwishlist.com/) required  or  [real one](https://finalwishlist.com/).
 then you have to register to in properly site in Store Register form
 
 That'it from now for registered customers it will be ask if want add item to finalwishlist too.
