@@ -1,0 +1,12 @@
+{
+    "name": "finalwishlist/finalwishlist-yith-woocommerce-wishlist",
+    "type": "wordpress-plugin",
+    "license": "BSD-3-Clause",
+    "description": "A integration of yith-woocommerce-wishlist for finalwishlist.com",
+    "authors": [
+        {
+            "name": "Marco Greco",
+            "email": "marcogreco.job@gmail.com"
+        }
+    ]
+}
